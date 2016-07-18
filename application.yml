@@ -1,6 +1,6 @@
 info:
   description: Spring Cloud Samples
-  url: https://github.com/spring-cloud-samples-Have12Tries
+  url: https://github.com/spring-cloud-samples-Have23Tries
 eureka:
   client:
     serviceUrl:
