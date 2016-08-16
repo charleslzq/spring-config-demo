@@ -1,2 +1,9 @@
 test: 
   same_string: '{cipher}AQCAPU+4oaOKjWLFnDzI2nvjXBLrZs3c/eI5XBMWl6i7kouw/kVrPVbfJ0hb6O6VrHZywFBM+gs7HfCkuVkAy+MiP6Rg/LcxIAf0XzcCJ6W3Il+efUin1/VfXSEyib4G6bZCWWNUsm3OCPpBaro0GTPXXacAkMFJvtc93cZeTmtL02sy+2sOT4+0VYLCsXOYP7miNdtMC9cVy7EcHDShIm2NgGUjf78u4aA7KkBCatUSqn57uJOjO2JqLO7ou+RPtIfMnHInjuBcyuUcTUHESNZPhXgOsZI9cu3nOFzs8DDtnNUXFvcOC3LxTHLoeB9KPV4ugmF4e858GbSwSCnOM/GVq9pSKFDw1l2Cx1e00dbenSXcmavSmdE1BcazVDbOYjA='
+  
+encrypt:
+  keyStore:
+    location: server.jks
+    password: letmein
+    alias: mytestkey
+    secret: changeme
