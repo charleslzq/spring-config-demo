@@ -12,6 +12,7 @@
       "first": "Audra",
       "last": "Mendez"
     },
+    "foo":"bar",
     "company": "NEXGENE",
     "email": "audra.mendez@nexgene.io",
     "phone": "+1 (812) 461-2870",
