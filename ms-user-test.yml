@@ -6,3 +6,6 @@ spring:
     
 config:
   changed: hello
+
+isis:
+  url: http://localhost:8089/restful/services
